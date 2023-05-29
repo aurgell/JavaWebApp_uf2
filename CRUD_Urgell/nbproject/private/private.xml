@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/web/WEB-INF/view/successJSP.jsp</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/src/java/controller/DeleteServlet.java</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/src/java/controller/ListServlet.java</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/src/java/persistence/PersonPersistFactory.java</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/web/index.jsp</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/src/java/controller/ReadServlet.java</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/src/java/controller/LoginServlet.java</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/web/view/loginForm.html</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/web/view/deleteForm.html</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/web/view/errorForm.html</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/web/view/readForm.html</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/src/java/controller/BaseServlet.java</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/src/java/persistence/PersonDAOFileImplementation.java</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/web/error.html</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/src/java/controller/LogoutServlet.java</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/src/java/controller/FrontController.java</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/web/view/main.jsp</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/web/view/signupForm.html</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/src/java/controller/UpdateServlet.java</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/src/java/persistence/PersonDAO.java</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/web/view/updateForm.html</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/src/java/controller/CreateServlet.java</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/web/WEB-INF/view/displayForm.jsp</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/web/view/successForm.html</file>
+            <file>file:/Users/albert/Desktop/DAW/Desplegament_aplicacions/ProjectesZip/CRUD_Urgell/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
